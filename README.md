@@ -21,11 +21,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/damidani/damidani/ivozclient.git"
+      "url": "https://github.com/damidani/ivozclient.git"
     }
   ],
   "require": {
-    "damidani/damidani/ivozclient": "*@dev"
+    "damidani/ivozclient": "*@dev"
   }
 }
 ```
